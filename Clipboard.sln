@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clipboard_Forms", "Clipboard_Forms\Clipboard_Forms.csproj", "{7D142341-A3B0-4E1E-9556-34FC6775B6BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clipboard", "Clipboard_Forms\Clipboard.csproj", "{7D142341-A3B0-4E1E-9556-34FC6775B6BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

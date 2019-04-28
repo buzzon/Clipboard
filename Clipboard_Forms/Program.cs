@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Clipboard_Forms
 {
-    static class Program
+    class Program
     {
         /// <summary>
         /// Главная точка входа для приложения.
